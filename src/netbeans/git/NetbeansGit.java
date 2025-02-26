@@ -6,6 +6,7 @@ public class NetbeansGit {
         System.out.println("Hola");
         System.out.println("Adios");
         System.out.println("Cerrando");
+        System.out.println("Programa Cerrado");
     }
     
 }
